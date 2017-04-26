@@ -1,0 +1,14 @@
+Copyright © 2017 Multi Media, LLC
+
+All Rights Reserved.
+
+Contact: <licensing@multimediallc.com>
+
+=====
+
+This product incorporates 3rd-party software components,
+either in binary or source form, licensed under their respectable licenses.
+The corresponding source code for binary components licensed under
+the GNU Lesser General Public License are available from
+    
+    https://github.com/chaturbatecom/pancam_client
